@@ -1,4 +1,4 @@
-The Sea Change Program on Zen Habits
+The Sea Change Program (Zen Habits)
 =========
 
 What is this? It's a way for members to submit problems, questions, suggestions for improvements, or other issues with the Sea Change Program.
